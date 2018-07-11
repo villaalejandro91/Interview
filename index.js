@@ -16,6 +16,7 @@ app.controller('followersCtr',
 		})
 
 		$scope.follows = function(id){
+			$('.insert').html('');
 			$('.modal-title').html(id + ' - followers')
 			var followers = 'https://api.github.com/users/'+id+'/followers';
 			var html = '';
