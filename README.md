@@ -1,8 +1,8 @@
 # Followers
 
 * Create a small Angular.js application that fetches users from github's public api and displays a user's followers.
-* Use Angular.js version 1.5 or higher (already included in this repo, don't use Angular 2 ;))
-* Make a user interface that is friendly and functional (use whatever libraries you want, bootstrap is included in this repo)
+* Use Angular.js version 1.5 or higher (already included in this repo, don't use Angular 2 ;)).
+* Make a user interface that is friendly and functional (use whatever libraries you want, bootstrap is included in this repo).
 
 # Requirements
 
